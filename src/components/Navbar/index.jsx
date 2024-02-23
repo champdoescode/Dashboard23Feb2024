@@ -6,7 +6,8 @@ const Navbar = () => {
         <nav className='shadow-lg fixed w-full bg-white'>
             <div className='flex justify-between'>
                 <div>
-                    <div className='pl-32 text-3xl text-[#0d635c] font-extrabold'>SMART SCHOOL</div>
+                    
+                    <div className='pl-32 text-3xl text-[#0d635c] font-extrabold'>Developers School</div>
                 </div>
                 <div className='flex m-2'>
                     <div className='mx-2 bg-orange-600 flex justify-center items-center rounded-full'><button className='text-sm bg-orange-600 text-white rounded-full px-2'>Under Implementation Track Progress</button></div>
